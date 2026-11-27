@@ -8,7 +8,7 @@
 - Documentazione tecnica
 - Nessun contenuto 18+
 
-## 2. velvet.x-zdos.it (Velvet Magazine — Casa $OV)
+## 2. ourvelvet.online (Velvet Magazine — Casa $OV)
 - Home ufficiale $OV
 - Studio 18+
 - Radar

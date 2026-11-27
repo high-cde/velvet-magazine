@@ -2,7 +2,7 @@
 
 > **STATUS: SOVEREIGN ALIGNED — ZDOS1.3**
 > Ultimo allineamento: 2026-11-22
-> Dominio ufficiale: https://velvet.x-zdos.it
+> Dominio ufficiale: https://ourvelvet.online
 > Token ufficiale: **$OV (VELVET)** su Solana
 > Mint: `2EN6Y1zM4yyt41gE2muzdJSAgRCAZiXqnmkgpbrspump`
 
@@ -24,10 +24,10 @@ A breve ospiterà anche **$OV Stable**.
 | Settore | Dominio | Contenuto | Token |
 |---------|---------|-----------|-------|
 | **Crypto SFW** | `x-zdos.it` | ZDOS Core, ZLang, ZSwap, Forge, $DSN, IDE, Network | $DSN |
-| **18+ Official** | `velvet.x-zdos.it` | Velvet Magazine, Studio, Radar, Creator, $OV Home | **$OV** |
-| **Payments** | velvet.x-zdos.it | Velvet Pay funzionale (tip, purchase, mint) | $OV |
+| **18+ Official** | `ourvelvet.online` | Velvet Magazine, Studio, Radar, Creator, $OV Home | **$OV** |
+| **Payments** | ourvelvet.online | Velvet Pay funzionale (tip, purchase, mint) | $OV |
 
-**Regola assoluta**: nessun contenuto 18+ su x-zdos.it. Nessun tool crypto SFW ospitato sotto velvet.x-zdos.it.
+**Regola assoluta**: nessun contenuto 18+ su x-zdos.it. Nessun tool crypto SFW ospitato sotto ourvelvet.online.
 
 ## Architettura Pulita
 - Age gate obbligatorio su ogni pagina
@@ -44,7 +44,7 @@ A breve ospiterà anche **$OV Stable**.
 - Cross-link solo con disclaimer chiari
 
 ## Prossimi Passi Immediati
-1. Spostare ogni elemento SFW fuori da velvet.x-zdos.it
+1. Spostare ogni elemento SFW fuori da ourvelvet.online
 2. Attivare Velvet Pay reale (firma transazione + verifica)
 3. Rendere questa repository la fonte di verità per $OV
 4. Pulizia totale dei repository legacy
